@@ -98,6 +98,11 @@ PORT=3003 npm start
 
 - [courses-web](https://github.com/alaskarian0/courses-web) - Frontend application
 
+## Contributors
+
+- [alaskarian0](https://github.com/alaskarian0)
+- [sajjad-basim9](https://github.com/sajjad-basim9)
+
 ## License
 
 MIT
